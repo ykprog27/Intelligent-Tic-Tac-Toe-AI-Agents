@@ -1,4 +1,8 @@
 # Intelligent-Tic-Tac-Toe-AI-Agents
+
+<img width="1390" height="1132" alt="GUI" src="https://github.com/user-attachments/assets/604415ee-7e3e-4424-a711-c598bbb4189c" />
+
+
 An intelligent Tic-Tac-Toe game with a user-friendly GUI, featuring three AI agents: Rule Based Agent, Minimax with Alpha-Beta Pruning Agent, and a Learning Agent. The project demonstrates game search algorithms, decision-making, and AI concepts through interactive gameplay and AI-vs-AI or Human-vs-AI matches.
 
 This project presents an intelligent implementation of the classic Tic-Tac-Toe game, enhanced with a modern graphical user interface (GUI) and multiple Artificial Intelligence (AI) agents. The system is designed not only as a playable game but also as an educational platform for exploring and comparing different AI techniques used in game-playing environments. By combining traditional search algorithms, rule-based decision making, and machine learning approaches, the project demonstrates how various AI strategies perform under the same game conditions.
